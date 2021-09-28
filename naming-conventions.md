@@ -46,7 +46,7 @@ function thisIsMyFunction(params: Params): void {}
 
 ## Naming Constant
 
-Snake Case (All Caps): viết hoa tất cả các chữ cái và nối từ bằng dấu \_\
+Snake Case (All Caps): viết hoa tất cả các chữ cái và nối từ bằng dấu _
 
 ```javascript
 // bad
@@ -73,7 +73,7 @@ const API_URL: string = 'api_url';
 
 ## Naming Component
 
-Pascal case (Upper camel case): chữ cái đầu tiên của từ ghép là chữ Hoa
+Pascal case (Upper camel case): chữ cái đầu tiên của từ ghép là chữ in hoa
 
 ```javascript
 // bad
